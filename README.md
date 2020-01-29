@@ -1,5 +1,5 @@
 * The main focus of the projects in this repository is to show the effective use of SASS.
-* All the projects are responsive for every screen size, except the "Welcome page" project.
+* All the projects are responsive for all screen sizes.
 * The breakpoints for the screen sizes are as follows:
     *Small- 576px
     *Medium- 768px
